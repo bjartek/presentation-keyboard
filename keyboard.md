@@ -41,22 +41,20 @@
 
 ---
 
-![](
+![](https://rawgit.com/bjartek/presentation-keyboard/master/IMG_0322.JPG)
 
 ---
 
-![](
+![](https://rawgit.com/bjartek/presentation-keyboard/master/IMG_0329.JPG)
 
 ---
 
-![](
+![](https://rawgit.com/bjartek/presentation-keyboard/master/IMG_0337.JPG)
 
 ---
 
-![](
+![](https://rawgit.com/bjartek/presentation-keyboard/master/IMG_0340-edited.jpg)
 
 ---
-
 ![](https://rawgit.com/bjartek/atreus-firmware/master/atreus/bjartek.png)
-
 
